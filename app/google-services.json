@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908047996081",
+    "project_id": "collage-app-8412d",
+    "storage_bucket": "collage-app-8412d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908047996081:android:8b67ae0f64a8a9b9353e90",
+        "android_client_info": {
+          "package_name": "com.krish.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908047996081-fkhh0m2u8drp7qrnir78gollgrbmnku2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUri88NtaX3ccvqhpvl5ZxZ3Gd9R0AACI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908047996081-fkhh0m2u8drp7qrnir78gollgrbmnku2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
